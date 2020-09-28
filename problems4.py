@@ -1,4 +1,4 @@
-#Question one
+#Question one!
 x = int(input("Gimme a number"))
 y=1
 sum = 0
